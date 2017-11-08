@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header>
+    <h1 itemprop="name headline">{{ page.title | escape }}</h1>
+    <img class="image" src="{{ page.image | relative_url }}"/>
+    {% if page.calendar %}
+      <p>
+        <time datetime="{{ page.calendar.date | date_to_xmlschema }}">
+          {{ page.calendar.date | date: site.post_list.date_format }}
+        </time>
+        <address>
+          {{ page.calendar.address | newline_to_br }}
+        </address>
+      </p>
+    {% endif %}
+  </header>
+
+  <div itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <footer>
+    <p>
+      publicado em:
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: site.date_format }}
+      </time>
+      {% if page.author %}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+      {% endif %}
+    </p>
+  </footer>
+
+  {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+  {% endif %}
+</article>

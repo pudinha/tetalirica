@@ -1,0 +1,31 @@
+title: TETA—TOUR—SUDESTE—BRASYL—2017
+author: Dona Teta Lírica
+email: marie.rf@gmail.com
+description: >
+  Site da Teta Lírica
+
+baseurl: ""
+url: "http://tetalirica.com.br"
+
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+date_format: '%d/%m/%y'
+time_format: ''
+
+post_list:
+  date_format: '%d/%m %Hh'
+
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

@@ -1,0 +1,23 @@
+<header role="banner">
+  <div id="site-header" class="wrapper">
+    <div id="site-header-text" class="bleed">
+      <a href="{{ "/" | relative_url }}">
+        <h1>
+          {{ site.title | escape }}
+        </h1>
+      </a>
+    </div>
+    <nav id="site-header-nav">
+      {% if site.pages %}
+      <ul class="page-list">
+        {% for page in site.pages %}
+        <li>
+          <a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </nav>
+  </div>
+</header>

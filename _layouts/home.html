@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+    <li class="opacity-hover">
+      <a class="post-list-link" href="{{ post.url | relative_url }}">
+        <img class="post-list-image filter-grayscale" src="{{ post.image | relative_url }}"/>
+        <span class="post-list-text bleed">
+          <h1>
+            {{ post.title | escape }}
+          </h1>
+
+          {% if post.calendar %}
+          <time datetime="{{ post.calendar.date | date_to_xmlschema }}">
+            {{ post.calendar.date | date: site.post_list.date_format }}
+          </time>
+          <address>
+            {{ post.calendar.address | newline_to_br }}
+          </address>
+          {% endif %}
+
+          {% if post.excerpt %}
+          {{ post.excerpt | strip_html }}
+          {% endif %}
+        </span>
+
+        <time datetime="{{ post.date | date_to_xmlschema }}" class="post-list-date">
+          {{ post.date | date: site.post_list.date_format }}
+        </time>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+
+  <p>Assinar <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>
