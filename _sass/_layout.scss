@@ -53,22 +53,20 @@ body > footer {
   color: $color5;
 }
 
-body > footer a {
-  color: $color3;
+body > footer a,
+body > footer a:visited
+{
+  color: inherit;
+}
+
+body > footer a:hover
+{
+  color: $color4;
 }
 
 body > footer ul {
   padding: 0;
   list-style: none;
-}
-
-/*
- * page list
- *
- */
-.page-list {
-  list-style: none;
-  padding: 0;
 }
 
 /*
@@ -113,7 +111,7 @@ h3 {
   }
 
   #site-header-nav {
-    font-size: 50%;
+    font-size: 100%;
   }
 }
 
@@ -196,9 +194,26 @@ body > header {
 }
 
 #site-header-nav {
+  //position: absolute;
+  //bottom: 0;
+  //left: $spacing;
+}
+
+/*
+ * links para sobre e loja
+ *
+ */
+#header-link-sobre, #header-link-loja {
   position: absolute;
-  bottom: 0;
+  bottom: $spacing;
+}
+
+#header-link-sobre {
   left: $spacing;
+}
+
+#header-link-loja {
+  right: $spacing;
 }
 
 .post-list-date {
@@ -256,5 +271,6 @@ body > header {
  * conteúdo do post
  *
  */
-.post {
+.post-content img {
+  max-width: 100%;
 }

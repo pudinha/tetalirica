@@ -14,7 +14,7 @@ categories: shows
 ---
 
 Teta Lyrica (Marie Carangi) convida FoGo (LuKaSH) convida MaRCoS CaMPeLLo
-convida ZóZio na BOCA. \\
+convida ZóZio na BOCA.  
 Nosso QG Dionisíaco Poli Vida vira palco para música ao vivo elektromagnétyca
 vibradora de partículas.
 

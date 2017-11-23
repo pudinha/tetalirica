@@ -10,7 +10,7 @@ url: "http://tetalirica.com.br"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-markdown: kramdown
+markdown: rdiscount
 theme: minima
 plugins:
   - jekyll-feed
@@ -20,6 +20,18 @@ time_format: ''
 
 post_list:
   date_format: '%d/%m %Hh'
+
+teta_links:
+  - name: Performatus
+    url: https://performatus.net/perfil-de-artista/marie-carangi/
+  - name: Obscuro Fichario
+    url: http://obscurofichario.com.br/obras/teta-lirica/
+  - name: Cargo Collective
+    url: http://cargocollective.com/umabrasileiraqualquer
+  - name: Vimeo
+    url: https://vimeo.com/umabrasileiraqualquer
+  - name: Q21
+    url: http://www.q21.at/artists-in-residence/artists/artistinfo/marie-carangi/
 
 # exclude:
 #   - Gemfile

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre Teta Lirica
-permalink: /sobre-teta-lirica/
+permalink: /sobre/
 ---
 
 {% oembed https://vimeo.com/175589393 %}

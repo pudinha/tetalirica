@@ -17,10 +17,10 @@ categories: show
 MOSTRA PERFORMATUS #2
 ---------------------
 
-o que está à luz do nosso tempo, discernimos no escuro\\
-https://performatus.net/mostra/mostra-performatus-2/
+o que está à luz do nosso tempo, discernimos no escuro  
+<https://performatus.net/mostra/mostra-performatus-2/>
 
-Sesc Santos, Santos, São Paulo | De 01 a 09 de julho de 2017\\
+Sesc Santos, Santos, São Paulo | De 01 a 09 de julho de 2017  
 Curadoria de Paulo Aureliano da Mata e Tales Frey
 
 O recorte curatorial da Mostra Performatus #2 gira em torno das micropolíticas
@@ -32,4 +32,4 @@ que integram a mostra, bem como na composição de obras que funcionam como
 expansões de ações ao vivo de performance, nas discussões existentes nas
 oficinas e, ainda, nas palestras/conferências e nas exibições de filmes
 
-https://performatus.net/perfil-de-artista/marie-carangi/
+<https://performatus.net/perfil-de-artista/marie-carangi/>

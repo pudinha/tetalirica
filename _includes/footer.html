@@ -3,22 +3,20 @@
   </nav>
 
   <div class="wrapper">
-    <ul>
-      <li>
-        {% if site.author %}
-          {{ site.author | escape }}
-        {% else %}
-          {{ site.title | escape }}
-        {% endif %}
-        </li>
-        {% if site.email %}
-        <li>
-          <div class="bleed">
-            <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          </div>
-        {% endif %}
-    </ul>
+    <div class="bleed">
+      <h1>Contato</h1>
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      <h1>Outras mídias</h1>
+      <ul class="social-media-list">
+        {% for teta in site.teta_links  %}
+          <li>
+            <a href="{{ teta.url }}">{{ teta.name }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
 
+    <!--
     <ul class="social-media-list">
       {% if site.github_username %}
       <li>
@@ -32,4 +30,5 @@
       </li>
       {% endif %}
     </ul>
+    -->
 </footer>
