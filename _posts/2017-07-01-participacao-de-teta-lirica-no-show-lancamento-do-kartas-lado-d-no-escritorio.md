@@ -3,7 +3,7 @@ layout: post
 title:  Participação de Teta Lirica no show lançamento do KARTAS | LADO D no Escritório
 date:   2017-07-01 22:00:00 -0300
 
-image: assets/images/posts/2017-07-01-participacao-de-teta-lirica-no-show-lancamento-do-kartas-lado-d-no-escritorio.jpg
+image: /assets/images/posts/2017-07-01-participacao-de-teta-lirica-no-show-lancamento-do-kartas-lado-d-no-escritorio/flyer.jpg
 
 calendar:
   date: 2017-07-01 22:00:00 -0300

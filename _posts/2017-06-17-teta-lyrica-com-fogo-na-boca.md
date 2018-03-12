@@ -3,7 +3,7 @@ layout: post
 title:  Teta Lyrica com FoGo na BOCA
 date:   2017-06-17 21:00:00 -0300
 
-image: assets/images/posts/2017-06-17-teta-lyrica-com-fogo-na-boca.jpg
+image: /assets/images/posts/2017-06-17-teta-lyrica-com-fogo-na-boca/flyer.jpg
 
 calendar:
   date: 2017-06-17 21:00:00 -0300

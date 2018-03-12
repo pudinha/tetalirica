@@ -3,7 +3,7 @@ layout: post
 title:  Teta | Bloop em Contato Transitório 55SP
 date:   2017-07-18 21:00:00 -0300
 
-image: assets/images/posts/2017-07-18-teta-bloop-em-contato-transitorio-55sp.jpg
+image: assets/images/posts/2017-07-18-teta-bloop-em-contato-transitorio-55sp/flyer.jpg
 
 calendar:
   date: 2017-07-18 21:00:00 -0300

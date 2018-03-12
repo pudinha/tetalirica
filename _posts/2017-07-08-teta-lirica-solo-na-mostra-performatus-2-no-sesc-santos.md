@@ -3,7 +3,7 @@ layout: post
 title:  Teta Lirica solo na Mostra Performatus #2 no
 date:   2017-07-08 19:00:00 -0300
 
-image: assets/images/posts/2017-07-08-teta-lirica-solo-na-mostra-performatus-2-no-sesc-santos.jpg
+image: assets/images/posts/2017-07-08-teta-lirica-solo-na-mostra-performatus-2-no-sesc-santos/flyer.jpg
 
 calendar:
   date:   2017-07-08 19:00:00 -0300
