@@ -98,6 +98,18 @@ h3 {
   font-size: 112.5%;
 }
 
+/*
+.grid {
+  text-align: center;
+    margin: 0 -1em;
+}
+
+.grid > * {
+  display: inline-block;
+  margin: 0 1em;
+}
+*/
+
 @media only screen and (min-width: 800px) {
   .wrapper {
     width: 800px;
@@ -113,6 +125,35 @@ h3 {
   #site-header-nav {
     font-size: 100%;
   }
+/*
+  .grid {
+    margin-top: -1em;
+  }
+
+  .grid > * {
+    width: calc(50% - 2em);
+    margin-top: 1em;
+  }
+*/
+}
+
+/*
+.grid *:first-child {
+  margin-left: 0;
+}
+
+.grid *:last-child {
+  margin-right: 0;
+}
+*/
+
+figure {
+  text-align: center;
+  margin: 0 0;
+}
+
+.estica-figure img {
+  width: 100%;
 }
 
 /*
