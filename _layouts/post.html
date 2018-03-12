@@ -5,7 +5,9 @@ layout: default
 
   <header>
     <h1 itemprop="name headline">{{ page.title | escape }}</h1>
-    <img class="image" src="{{ page.image | relative_url }}"/>
+    {% unless page.noimg %}
+      <img class="image" src="{{ page.image | relative_url }}"/>
+    {% endunless %}
     {% if page.calendar %}
       <p>
         <time datetime="{{ page.calendar.date | date_to_xmlschema }}">
