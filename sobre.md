@@ -4,7 +4,7 @@ title: Sobre Teta Lirica
 permalink: /sobre/
 ---
 
-{% oembed https://vimeo.com/175589393 %}
+{% include vimeo.html id='175589393' %}
 
 Teta Lirica é uma performance-concerto de Marie Carangi que envolve o atrito
 entre o corpo e o instrumento musical theremin. O theremin possui uma antena

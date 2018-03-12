@@ -20,7 +20,7 @@ Nesse sábado, convidamos tods para celebrar
 o fim, e também, início de um novo ciclo pro KARTAS, projeto sonoro que mm &  
 zozio vem desenvolvendo desde 2015.
 
-{% oembed https://www.youtube.com/watch?v=Q1mHUansjnc %}
+{% include youtube.html id='Q1mHUansjnc' %}
 
 **LADO A**  
 documentos íntimos gravados em K7, arranjados para cordas, bateria & ruídos

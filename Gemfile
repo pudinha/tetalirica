@@ -22,8 +22,6 @@ gem "minima", "~> 2.0"
 # If you have any plugins, put them here!
 
 group :jekyll_plugins do
-  gem "ruby-oembed"
-  gem "xml-simple"
   gem "jekyll-feed", "0.9.2"
 end
 
