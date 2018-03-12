@@ -13,7 +13,7 @@ calendar:
 categories: show
 ---
 
-Ava Patrya Teta Lyrica Bella  
+Ava Patrya Teta Lyrica Bella\\
 lingua loka, theremin, astromântica
 
 Ofereça ao caldeirão dourado

@@ -10,7 +10,7 @@ url: "http://tetalirica.com.br"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-markdown: rdiscount
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed

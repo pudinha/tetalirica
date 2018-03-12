@@ -14,7 +14,7 @@ calendar:
 categories: show
 ---
 
-C.O.N.T.A.T.O  
+C.O.N.T.A.T.O\\
 T-R-A-N-S-I-T-Ó-R-I-O
 
 Em relação a área expositiva do Epicentro, a mostra reúne condições para a
@@ -33,11 +33,11 @@ estar em transformação no mundo.
 
 Curadoria de Julia Morelli e Marcio Harum
 
-55SP no Epicentro  
-Abertura: 11/07 das 19h as 22h  
-Periodo expositivo:  
-2a a 6a das 12 as 19h  
-Sábado das 11 as 17h  
+55SP no Epicentro\\
+Abertura: 11/07 das 19h as 22h\\
+Periodo expositivo:\\
+2a a 6a das 12 as 19h\\
+Sábado das 11 as 17h\\
 Encerramento: 18/07 - com performance de Marie Carangi + Bella - Teta Bloop -
 19h as 22h
 

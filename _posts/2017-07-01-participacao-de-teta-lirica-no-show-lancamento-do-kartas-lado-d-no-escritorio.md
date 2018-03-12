@@ -14,26 +14,26 @@ calendar:
 categories: show
 ---
 
-Por Zozio RL e Ämarcél Ämar:  
-  
-Nesse sábado, convidamos tods para celebrar  
-o fim, e também, início de um novo ciclo pro KARTAS, projeto sonoro que mm &  
+Por Zozio RL e Ämarcél Ämar:\\
+\\
+Nesse sábado, convidamos tods para celebrar\\
+o fim, e também, início de um novo ciclo pro KARTAS, projeto sonoro que mm &\\
 zozio vem desenvolvendo desde 2015.
 
 {% include youtube.html id='Q1mHUansjnc' %}
 
-**LADO A**  
+**LADO A**\\
 documentos íntimos gravados em K7, arranjados para cordas, bateria & ruídos
 eletrônicos (<https://soundcloud.com/intelie-rec/sets/kartas-lado-a>)
 
-**LADO B**  
+**LADO B**\\
 ruídos eletrônicos, bateria, máquinas & documentos íntimos gravados em K7
 (<https://soundcloud.com/intelie-rec/sets/kartas-lado-b>)
 
-**LADO C**  
+**LADO C**\\
 documentos íntios gravados em K7, arranjados para guitarra, bateria e sax
 
-**LADO D**  
+**LADO D**\\
 reprodução ao vivo dos lados anteriores com mindu (bateria) bruninho
 (eletrônicos/sax), zozio (cordas) e mm (voz); Improvisação & participações
 espaciais (Marie Carangi, Fábio Hirsh, Lukash, Glauber Airöla, Alexander
