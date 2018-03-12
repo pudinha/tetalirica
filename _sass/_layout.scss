@@ -149,7 +149,7 @@ h3 {
 
 figure {
   text-align: center;
-  margin: 0 0;
+  margin: 1em 0;
 }
 
 .estica-figure img {
@@ -271,7 +271,9 @@ body > header {
 
 .video {
   position: relative;
-  padding-top: 25px;
+//  padding-top: 25px;
+  padding: 0;
+  margin: 1em 0;
   height: 0;
 }
 
