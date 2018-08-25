@@ -5,6 +5,9 @@ layout: default
 
   <header>
     <h1 itemprop="name headline">{{ page.title | escape }}</h1>
+    {% if page.youtube %}
+      {% include youtube.html id=page.youtube %}
+    {% endif %}
     {% unless page.noimg %}
       <img class="image" src="{{ page.image | relative_url }}"/>
     {% endunless %}
