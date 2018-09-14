@@ -7,7 +7,7 @@ image:  /assets/images/posts/2018-09-11-o-abismo-der-abgrund/o-abismo.jpg
 categories: teta
 ---
 
-    texto: O ABISMO (Der abgrund)
+    O ABISMO (Der abgrund)
     videotrack debut by the duo KupaTeta — Kupalua & Teta Lírica
 
     Whenever you stare the tits, the tits stares at you
