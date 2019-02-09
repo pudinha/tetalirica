@@ -8,8 +8,8 @@ noimg:  true
 categories: teta
 ---
 
-Relinchos & Sussurros é a nova videofaixa da dupla KupaTeta (Kupalua & Teta
-Lírica) ao vivo na Chapada Diamantina, Raposa-BA, Brasil.
+nova videofaixa da dupla KupaTeta (Kupalua & Teta Lírica) ao vivo na Chapada
+Diamantina, Raposa-BA, Brasil.
 
 new videotrack from the duo KupaTeta (Kupalua & Teta Lírica) live into the
 Chapada Diamantina, Raposa-BA, Brazil.
