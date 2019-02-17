@@ -41,10 +41,9 @@ Bandcamp:
 <a href="{{ page.bandcamp }}">{{ page.bandcamp }}</a>
 </p>
 
-{%- include figure.html src=page.flyer.src class="estica-figure" -%}
-
-<!--<div class="grid">-->
+<div class="grid grid-baseline">
+  {%- include figure.html src=page.flyer.src class='col' -%}
   {%- for i in page.pics -%}
-    {%- include figure.html src=i.src -%}
+    {%- include figure.html src=i.src class='col' -%}
   {%- endfor -%}
-<!--</div>-->
+</div>
