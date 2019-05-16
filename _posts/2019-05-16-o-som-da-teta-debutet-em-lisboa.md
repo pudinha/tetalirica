@@ -9,6 +9,7 @@ calendar:
   address: |
     VALSA
     Rua Penha de França, 270, Lisboa-PT
+excerpt: ""
 pics:
   - posts/2019-05-16-o-som-da-teta-debutet-em-lisboa/IMG_20190404_203359.jpg
   - posts/2019-05-16-o-som-da-teta-debutet-em-lisboa/moment_photo_04A8CB63.jpg
