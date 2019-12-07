@@ -31,9 +31,9 @@ in this field.
 
 ## bandcamp
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=912178169/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=1648934403/transparent=true/" seamless><a href="http://berro-nusom.bandcamp.com/album/make-it-heard-vol-2">Make it Heard - Vol. 2 by Marie Carangi</a></iframe>
+<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=912178169/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/track=1648934403/transparent=true/" seamless><a href="http://berro-nusom.bandcamp.com/album/make-it-heard-vol-2">Make it Heard - Vol. 2 by Marie Carangi</a></iframe>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=912178169/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://berro-nusom.bandcamp.com/album/make-it-heard-vol-2">Make it Heard - Vol. 2 by Berro</a></iframe>
+<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=912178169/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://berro-nusom.bandcamp.com/album/make-it-heard-vol-2">Make it Heard - Vol. 2 by Berro</a></iframe>
 
 <https://berro-nusom.bandcamp.com/track/stalactits>
 
