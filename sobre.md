@@ -15,14 +15,14 @@ velocidade de movimento, gera picos de agudo variáveis, resultando num canto
 lírico estridente.
 
 
-About Lyric Tits
-----------------
+About Lyric Tit
+---------------
 
-Lyric Tits is a performance-concert by Marie Carangi involving the friction
+Lyric Tit is a performance-concert by Marie Carangi involving the friction
 between the body and the musical instrument theremin. The theremin has an
 antenna that emits a vibrational field in the air, where the musical notes are
-distributed reacting to the proximity of the body. Tits shakes touching the
-notes in this field generating sound. The degree of the friccion between tits
+distributed reacting to the proximity of the body. Tit shakes touching the
+notes in this field generating sound. The degree of the friccion between tit
 and the field, associated with the velocity of movement generates variable
 sharp peaks resulting on a strident lyric singing.
 
