@@ -13,7 +13,9 @@ layout: default
     {% unless page.noimg %}
       <img class="image" src="{{ page.image | relative_url }}"/>
     {% endunless %}
-    {% if page.calendar %}
+
+    {% if post.calendar %}
+    {% unless post.calendar.hidden %}
       <p>
         <time datetime="{{ page.calendar.date | date_to_xmlschema }}">
           {{ page.calendar.date | date: site.post_list.date_format }}
@@ -22,6 +24,7 @@ layout: default
           {{ page.calendar.address | newline_to_br }}
         </address>
       </p>
+    {% endunless %}
     {% endif %}
   </header>
 

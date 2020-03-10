@@ -17,12 +17,14 @@ layout: default
           </h1>
 
           {% if post.calendar %}
+          {% unless post.calendar.hidden %}
           <time datetime="{{ post.calendar.date | date_to_xmlschema }}">
             {{ post.calendar.date | date: site.post_list.date_format }}
           </time>
           <address>
             {{ post.calendar.address | newline_to_br }}
           </address>
+          {% endunless %}
           {% endif %}
 
           {% if post.excerpt %}
