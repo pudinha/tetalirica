@@ -13,7 +13,7 @@ layout: default
         <img class="post-list-image filter-grayscale" src="{{ post.image | relative_url }}"/>
         <span class="post-list-text bleed">
           <h1>
-            {{ post.title | escape }}
+            {{ post.title | escape | newline_to_br }}
           </h1>
 
           {% if post.calendar %}
@@ -26,7 +26,7 @@ layout: default
           {% endif %}
 
           {% if post.excerpt %}
-          {{ post.excerpt }}
+          {{ post.excerpt | escape | newline_to_br }}
           {% endif %}
         </span>
 
