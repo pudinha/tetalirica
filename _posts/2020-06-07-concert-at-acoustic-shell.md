@@ -41,7 +41,7 @@ Sound: **Thelmo Cristovam**
 <http://www.semana.art.br/2017/filmes/teta-lirica/?lang=en>
 
 **VIDEOFORMERS 2020 Festival, Clermont Ferrand, France**  
-<http://festival2020.videoformes.com/focus-3-timeline/>
+<https://pt.calameo.com/read/000011277f729af7eb8e5>
 
 **FestCine PE, Recife, Pernambuco, Brazil (awarded)**  
 <http://www.cultura.pe.gov.br/canal/audiovisual/festcine-2017-premia-a-forca-e-a-diversidade-do-audiovisual-pernambucano/>
