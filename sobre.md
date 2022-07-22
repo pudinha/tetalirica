@@ -6,7 +6,7 @@ permalink: /sobre/
 
 {% include vimeo.html id='152767758' %}
 
-Teta Lirica é uma performance-concerto de Marie Carangi que envolve o atrito
+Teta Lirica é uma performance-concerto de Tetta Marie Carangi que envolve o atrito
 entre o corpo e o instrumento musical theremin. O theremin possui uma antena
 que emite um campo vibracional no ar, onde as notas musicais se distribuem
 reagindo à proximidade do corpo. Tetas balançam tocando as notas nesse campo
@@ -18,7 +18,7 @@ lírico estridente.
 About Lyric Tit
 ---------------
 
-Lyric Tit is a performance-concert by Marie Carangi involving the friction
+Lyric Tit is a performance-concert by Tetta Marie Carangi involving the friction
 between the body and the musical instrument theremin. The theremin has an
 antenna that emits a vibrational field in the air, where the musical notes are
 distributed reacting to the proximity of the body. Tit shakes touching the
