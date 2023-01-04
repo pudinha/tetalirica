@@ -1,4 +1,5 @@
 ---
+priority: "001"
 layout: post
 title:  |-
   Teta Lírica / Lyric Tit

@@ -36,6 +36,19 @@ teta_links:
   - name: VICE
     url: https://www.vice.com/pt_br/article/mb3pyy/teta-teremim-video-oficina-teta-lirica-marie-carangi
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      # liquid's `sort` filter casts everything to string, so it can end up
+      # like this:
+      #
+      #   -1, -2, -3, 0,  1, 100, 2, 3, ...
+      #
+      # which is not what we want.
+      priority: "100"
+
 # exclude:
 #   - Gemfile
 #   - Gemfile.lock

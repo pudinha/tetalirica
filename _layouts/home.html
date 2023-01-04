@@ -7,36 +7,39 @@ layout: default
   {{ content }}
 
   <ul class="post-list">
-    {% for post in site.posts %}
-    <li class="opacity-hover">
-      <a class="post-list-link" href="{{ post.url | relative_url }}">
-        <img class="post-list-image filter-grayscale" src="{{ post.image | relative_url }}"/>
-        <span class="post-list-text bleed">
-          <h1>
-            {{ post.title | escape | newline_to_br }}
-          </h1>
+    {% assign priorities = site.posts | group_by: "priority" | sort: "name" %}
+    {% for priority in priorities %}
+      {% for post in priority.items %}
+        <li class="opacity-hover">
+          <a class="post-list-link" href="{{ post.url | relative_url }}">
+            <img class="post-list-image filter-grayscale" src="{{ post.image | relative_url }}"/>
+            <span class="post-list-text bleed">
+              <h1>
+                {{ post.title | escape | newline_to_br }}
+              </h1>
 
-          {% if post.calendar %}
-          {% unless post.calendar.hidden %}
-          <time datetime="{{ post.calendar.date | date_to_xmlschema }}">
-            {{ post.calendar.date | date: site.post_list.date_format }}
-          </time>
-          <address>
-            {{ post.calendar.address | newline_to_br }}
-          </address>
-          {% endunless %}
-          {% endif %}
+              {% if post.calendar %}
+              {% unless post.calendar.hidden %}
+              <time datetime="{{ post.calendar.date | date_to_xmlschema }}">
+                {{ post.calendar.date | date: site.post_list.date_format }}
+              </time>
+              <address>
+                {{ post.calendar.address | newline_to_br }}
+              </address>
+              {% endunless %}
+              {% endif %}
 
-          {% if post.excerpt %}
-          {{ post.excerpt | newline_to_br }}
-          {% endif %}
-        </span>
+              {% if post.excerpt %}
+              {{ post.excerpt | newline_to_br }}
+              {% endif %}
+            </span>
 
-        <!--<time datetime="{{ post.date | date_to_xmlschema }}" class="post-list-date">
-          {{ post.date | date: site.post_list.date_format }}
-        </time>-->
-      </a>
-    </li>
+            <!--<time datetime="{{ post.date | date_to_xmlschema }}" class="post-list-date">
+              {{ post.date | date: site.post_list.date_format }}
+            </time>-->
+          </a>
+        </li>
+      {% endfor %}
     {% endfor %}
   </ul>
 
