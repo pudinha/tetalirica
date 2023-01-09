@@ -28,13 +28,15 @@ teta_links:
   - name: Obscuro Fichario
     url: http://obscurofichario.com.br/obras/teta-lirica/
   - name: Cargo Collective
-    url: https://cargocollective.com/umabrasileiraqualquer
+    url: https://cargocollective.com/tettamariecarangi
   - name: Vimeo
-    url: https://vimeo.com/umabrasileiraqualquer
+    url: https://vimeo.com/tettamariecarangi
   - name: Q21
     url: http://www.q21.at/artists-in-residence/artists/artistinfo/marie-carangi/
   - name: VICE
     url: https://www.vice.com/pt_br/article/mb3pyy/teta-teremim-video-oficina-teta-lirica-marie-carangi
+  - name: Universitit
+    url: https://universitit.hotglue.me/
 
 defaults:
   -
