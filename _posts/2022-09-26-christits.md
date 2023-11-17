@@ -1,5 +1,4 @@
 ---
-priority: "000"
 layout: post
 title:  |-
   CHRISTITS
