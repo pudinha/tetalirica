@@ -10,11 +10,15 @@
     <nav id="site-header-nav">
       {% assign sobre = site.pages | where: "permalink", "/sobre/" | first %}
       {% assign loja = site.pages | where: "permalink", "/loja/" | first %}
+      {% assign records = site.pages | where: "permalink", "/records/" | first %}
       <a id="header-link-sobre" href="{{ sobre.url | relative_url }}">
         {{ sobre.title | escape }}
       </a>
       <a id="header-link-loja" href="{{ loja.url | relative_url }}">
         {{ loja.title | escape }}
+      </a>
+      <a id="header-link-records" href="{{ records.url | relative_url }}">
+        {{ records.title | escape }}
       </a>
     </nav>
   </div>

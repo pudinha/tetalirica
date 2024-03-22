@@ -1,0 +1,51 @@
+---
+layout: page
+title: Tetta Records
+permalink: /records/
+bandcamp: https://lyrictits.bandcamp.com/album/boca-cheia-de-tetas
+youtube: 9bVmRqFTOJk
+flyer:
+  alt: Flyer
+  src: /assets/images/boca-cheia-de-tetas-1.jpeg
+pics:
+  - alt: Lado A
+    src: /assets/images/boca-cheia-de-tetas-1.jpeg
+  - alt: Lado B
+    src: /assets/images/boca-cheia-de-tetas-2.jpeg
+---
+
+<h2>Boca Cheia de Tetas</h2>
+
+<div class="bandcamp-embed">
+  <div>
+    <iframe src="https://bandcamp.com/EmbeddedPlayer/album=2501100586/size=large/bgcol=333333/linkcol=ffffff/transparent=true/" seamless><a href="http://lyrictits.bandcamp.com/album/teta-single">BOCA CHEIA DE TETAS by Teta Lírica</a></iframe>
+  </div>
+</div>
+
+<p>
+Album recorded and produced by Homero Basílio<br>
+conceptit, cover art &amp; visuals by Tetta<br>
+camera by Cri<br>
+Songs by Tetta with the participation of Cri, Walter Ferreira, Homero Basílio
+<p>
+
+<p>
+Olinda, Brazil, February 2024
+</p>
+
+<p>
+Bandcamp:
+<a href="{{ page.bandcamp }}">{{ page.bandcamp }}</a>
+</p>
+
+{% if page.youtube %}
+  {% include youtube.html id=page.youtube %}
+{% elsif page.vimeo %}
+  {% include vimeo.html id=page.vimeo %}
+{% endif %}
+
+<div class="grid grid-baseline">
+  {%- for i in page.pics -%}
+    {%- include figure.html src=i.src class='col' -%}
+  {%- endfor -%}
+</div>

@@ -226,7 +226,7 @@ body > header {
  * links para sobre e loja
  *
  */
-#header-link-sobre, #header-link-loja {
+#header-link-sobre, #header-link-loja, #header-link-records {
   position: absolute;
   bottom: $spacing;
 }
@@ -237,6 +237,10 @@ body > header {
 
 #header-link-loja {
   right: $spacing;
+}
+
+#header-link-records {
+  right: 5em;
 }
 
 .post-list-date {
