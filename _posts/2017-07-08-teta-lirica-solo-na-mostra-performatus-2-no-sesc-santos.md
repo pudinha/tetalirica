@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Teta Lirica solo na Mostra Performatus #2 no
+title:  "Teta Lirica solo na Mostra Performatus #2 no"
 date:   2017-07-08 19:00:00 -0300
 
 image: assets/images/posts/2017-07-08-teta-lirica-solo-na-mostra-performatus-2-no-sesc-santos/flyer.jpg
@@ -18,7 +18,7 @@ MOSTRA PERFORMATUS #2
 ---------------------
 
 o que está à luz do nosso tempo, discernimos no escuro\\
-<https://performatus.net/mostra/mostra-performatus-2/>
+<https://performatus.com.br/mostra/mostra-performatus-2/>
 
 Sesc Santos, Santos, São Paulo | De 01 a 09 de julho de 2017\\
 Curadoria de Paulo Aureliano da Mata e Tales Frey
@@ -32,4 +32,4 @@ que integram a mostra, bem como na composição de obras que funcionam como
 expansões de ações ao vivo de performance, nas discussões existentes nas
 oficinas e, ainda, nas palestras/conferências e nas exibições de filmes
 
-<https://performatus.net/perfil-de-artista/marie-carangi/>
+<https://performatus.com.br/perfil-de-artista/marie-carangi/>
