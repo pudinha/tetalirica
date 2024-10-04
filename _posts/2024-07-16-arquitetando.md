@@ -3,9 +3,10 @@ layout: post
 title:  |-
   ArQuItEtAnDo
 date:   2024-07-16 00:00:00 +0000
-noimg:  false
+noimg:  true
 image:  /assets/images/posts/2024-07-16-arquitetando/cover.jpg
 img_cor:
+  - posts/2024-07-16-arquitetando/cover.jpg
   - posts/2024-07-16-arquitetando/cor_0.jpg
   - posts/2024-07-16-arquitetando/cor_1.jpg
   - posts/2024-07-16-arquitetando/cor_2.jpg
@@ -24,12 +25,12 @@ excerpt: ''
 categories: teta
 ---
 
-{%- for i in page.img_cor -%}
-  {% include figure.html asset=i %}
-{%- endfor -%}
-
 {%- for i in page.vimeos -%}
   {% include vimeo.html id=i %}
+{%- endfor -%}
+
+{%- for i in page.img_cor -%}
+  {% include figure.html asset=i %}
 {%- endfor -%}
 
 {%- for i in page.img_pb -%}
