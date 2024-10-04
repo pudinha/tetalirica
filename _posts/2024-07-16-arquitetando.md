@@ -18,10 +18,13 @@ img_pb:
   - posts/2024-07-16-arquitetando/pb_0.jpg
   - posts/2024-07-16-arquitetando/pb_1.jpg
   - posts/2024-07-16-arquitetando/pb_2.jpg
-calendar:
-  date: 2024-07-16
-  address: Porta, São Paulo, Brasil
-excerpt: ''
+#calendar:
+#  date: 2024-07-16
+#  address: Porta, São Paulo, Brasil
+excerpt: |-
+  Porta
+  São Paulo, Brasil
+  16.07.2024
 categories: teta
 ---
 
