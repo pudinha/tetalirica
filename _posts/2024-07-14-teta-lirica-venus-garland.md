@@ -10,6 +10,7 @@ pics:
   - posts/2024-07-14-teta-lirica-venus-garland/pic_0.jpg
   - posts/2024-07-14-teta-lirica-venus-garland/pic_1.jpg
   - posts/2024-07-14-teta-lirica-venus-garland/pic_2.jpg
+  - posts/2024-07-14-teta-lirica-venus-garland/pic_3.jpg
 #calendar:
 #  date: 2024-07-14 19:00:00
 #  address: Arquivo Histórico Municipal, São Paulo
@@ -20,6 +21,8 @@ excerpt: |-
   Arquivo Histórico Municipal, São Paulo
 categories: teta
 ---
+
+<https://en.festivalchiii.com/2024/venus-garland-tetta-2/>
 
 {% include vimeo.html id=1013078585 %}
 
